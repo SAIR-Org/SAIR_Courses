@@ -7,22 +7,6 @@
 **Status:** 🚀 First course started | 📊 Active Community  
 **License:** MIT | **Community:** [Join Us](#join-us)
 
----
-
-## ⚡ Quick Start
-
-New to SAIR? Get started in 5 minutes:
-
-```bash
-git clone https://github.com/SAIR/sair-ml-dl.git
-cd sair-ml-dl
-pip install -r requirements.txt
-python verify_setup.py  # Verify your environment
-```
-
-👉 **[Start the Roadmap Course](#roadmap)** | 📖 **[View Documentation](#)** | 💬 **[Join Discord](#)**
-
----
 
 ## 💡 What is SAIR?
 
@@ -95,17 +79,13 @@ What you'll learn:
 - Python fundamentals for ML/DL
 - Statistics and linear algebra essentials
 - Supervised learning (regression, classification)
-- Unsupervised learning (clustering, dimensionality reduction)
 - Model evaluation, validation, and hyperparameter tuning
 
 **Key Deliverables:**
-- ✅ 5+ hands-on coding exercises
-- ✅ 2 mini projects (house price prediction, iris classification)
-- ✅ Completion certificate
+- ✅ Python coding exercises
+- ✅ Implemented ML algorithms from scratch
+- ✅ First ML model on real dataset
 
-**[👉 Start Roadmap](#)**
-
----
 
 ### **2️⃣ Rising** – Apply & Build Real Things
 
@@ -123,10 +103,6 @@ What you'll build:
 - ✅ Model deployment (Docker, FastAPI, or Streamlit)
 - ✅ Project documentation and blog posts
 - ✅ Rising certificate + GitHub showcase
-
-**[👉 View Rising Projects](#)**
-
----
 
 ### **3️⃣ Researcher** – Push Boundaries
 
@@ -147,9 +123,6 @@ What you'll explore:
 - ✅ Publications and conference submissions
 - ✅ Researcher recognition
 
-**[👉 Join Research Group](#)**
-
----
 
 ## 📚 Learning Path Overview
 
@@ -226,92 +199,14 @@ We use industry-standard, open-source technologies:
 - Help mentor newcomers
 - Share your work on social media
 
-**[👉 View Contribution Guidelines](CONTRIBUTING.md)**
 
----
 
-## ❓ Frequently Asked Questions
-
-**Q: Is SAIR free?**  
-A: Yes! SAIR is completely free and open-source. We believe in democratizing AI education.
-
-**Q: Do I need prior ML experience?**  
-A: No! Roadmap is designed for beginners. Basic programming knowledge is helpful but not required.
-
-**Q: How much time should I invest?**  
-A: Roadmap: 10-15 hrs/week. Rising: 15-20 hrs/week. Researcher: flexible (20+ hrs/week for active participants).
-
-**Q: Can I participate part-time?**  
-A: Absolutely! Progress at your own pace. Our materials are self-paced and asynchronous.
-
-**Q: What if I get stuck?**  
-A: Join our **[Discord community](#)** to ask questions, connect with peers, and get help from mentors.
-
-**Q: Will I get a certificate?**  
-A: Yes! Completion certificates available for Roadmap and Rising phases. Researcher phase offers publication recognition.
-
-**Q: Can I use this for commercial projects?**  
-A: Yes! SAIR is MIT licensed. Check the [LICENSE](LICENSE) file for details.
-
----
-
-## 🌍 Community & Resources
-
-### **Connect With Us**
-
-- 💬 **[Discord Community](#)** – Ask questions, share projects, find study partners
-- 🐦 **[Twitter/X](#)** – Follow for updates, insights, and community highlights
-- 📧 **[Email Newsletter](#)** – Weekly curated AI news and course updates
-- 🤝 **[LinkedIn Group](#)** – Professional networking and job opportunities
-
-### **Essential Resources**
-
-- 📚 **[Documentation](#)** – Full course materials and guides
-- 🎥 **[Video Tutorials](#)** – Recorded lectures and walkthroughs
-- 📝 **[Blog](#)** – Articles, case studies, and research summaries
-- 💾 **[GitHub Discussions](#)** – Community Q&A and collaborations
-- 📖 **[Recommended Reading](#)** – Books, papers, and external resources
-
----
-
-## 🚀 Featured Community Projects
-
-Explore what SAIR learners have built:
-
-| Project | Creator | Domain | Repository |
-|---------|---------|--------|-----------|
-| **Arabic Sentiment Analysis** | [Community] | NLP | [Link](#) |
-| **Sudanese Sign Language Detector** | [Community] | CV | [Link](#) |
-| **Agricultural Yield Prediction** | [Community] | Time Series | [Link](#) |
-| **Automated Resume Screener** | [Community] | NLP | [Link](#) |
-
-**[👉 View All Projects](#)**
-
----
-
-## 📊 Community Metrics
-
-```
-🎓 Active Learners:      500+
-📚 Courses Completed:    1,200+
-🎯 Projects Launched:    150+
-📄 Research Papers:      25+
-🌍 Countries Reached:    15+
-⭐ GitHub Stars:         2,500+
-🤝 Contributors:         80+
-```
-
-Last updated: October 2025
-
----
-
+--
 ## 🎓 Meet the Founder
 
 **Mohammed Awad Ahmed (Silva)**
 
 Founder of SAIR and passionate about democratizing AI education in Sudan. With expertise in ML/DL systems and a vision to elevate African talent in technology, Silva leads SAIR's mission to build Sudan's AI ecosystem.
-
-[👉 Connect on LinkedIn](#) | [👉 Follow on Twitter](#)
 
 ---
 
@@ -324,20 +219,9 @@ We welcome contributions from everyone! Whether you're fixing a typo, adding new
 - 🐛 Report bugs and issues
 - 📚 Improve documentation
 - 🎥 Create tutorials or videos
-- 🔬 Submit research papers
 - 🛠️ Build and share projects
-- 🌐 Translate materials to Arabic
 - 💭 Share feedback and suggestions
 
-**[👉 See Full Contribution Guide](CONTRIBUTING.md)**
-
----
-
-## 📋 Code of Conduct
-
-SAIR is committed to fostering an inclusive, welcoming community. We follow the **[Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md)**. All participants must adhere to these principles of respect, inclusivity, and professionalism.
-
----
 
 ## 📄 License
 
@@ -355,23 +239,24 @@ Ready to be part of something big?
 
 1. ⭐ **Star this repository** to show support
 2. 📖 **[Start the Roadmap](#)** – Your AI journey begins here
-3. 💬 **[Join Discord](#)** – Connect with the community
-4. 🚀 **Build & Share** – Create amazing projects with us
+3. 🚀 **Build & Share** – Create amazing projects with us
 
----
-
-## 📞 Questions or Feedback?
-
-- 📧 **Email:** contact@sair.ai
-- 💬 **Discord:** [Join Server](#)
-- 🐦 **Twitter:** [@SairSudan](#)
-- 📝 **GitHub Issues:** [Report Issues](#)
-
----
 
 **Made with ❤️ by the SAIR Community**
 
 *Empowering Sudan. Advancing AI. Changing the Future.*
+
+---
+
+---
+
+## 🔥 Let's Get to Work
+
+Stop reading. Start building.
+
+Whether you're at your laptop in Khartoum, scrolling on your phone in a café, or coding late at night—**the time to start is now.** AI waits for no one, and neither should you.
+
+**The movement starts with you. Let's go.**
 
 ---
 
