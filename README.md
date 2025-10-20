@@ -1,4 +1,4 @@
-Perfect! Here’s a **fully polished, final version** of both READMEs ready for GitHub, with badges, links, formatting improvements, and minor text tweaks.
+Got it! Here’s the **final version of the Main README** with **technology badges added** under the Tech Stack section so it’s ready to paste on GitHub:
 
 ---
 
@@ -68,11 +68,38 @@ Foundations → Application → Research
 
 ## 💻 Tech Stack & Tools
 
-**ML/DL Frameworks:** Python, PyTorch, TensorFlow, HuggingFace, JAX  
-**Deployment & Production:** FastAPI, Streamlit, Docker, Kubernetes  
-**Experiment Tracking:** MLflow, Weights & Biases  
-**Infrastructure & Data:** CUDA, Linux, PostgreSQL, MongoDB  
-**Specialized Domains:** CV (OpenCV), Robotics (ROS2), Embedded Systems  
+**Core Technologies:**
+
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)  
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.1-red?logo=pytorch&logoColor=white)](https://pytorch.org/)  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.14-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-purple?logo=huggingface&logoColor=white)](https://huggingface.co/)  
+[![JAX](https://img.shields.io/badge/JAX-0.4.14-lightblue?logo=google&logoColor=white)](https://github.com/google/jax)
+
+**Deployment & Production:**
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.27-orange?logo=streamlit&logoColor=white)](https://streamlit.io/)  
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.99-green?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
+[![Docker](https://img.shields.io/badge/Docker-24.0-blue?logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-1.29-blue?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+
+**Experiment Tracking & Management:**
+
+[![MLflow](https://img.shields.io/badge/MLflow-2.9-lightgrey?logo=mlflow&logoColor=white)](https://mlflow.org/)  
+[![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-0.16-lightblue?logo=wandb&logoColor=white)](https://wandb.ai/)
+
+**Infrastructure & Data:**
+
+[![CUDA](https://img.shields.io/badge/CUDA-12.3-orange?logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)  
+[![Linux](https://img.shields.io/badge/Linux-Ubuntu-blue?logo=linux&logoColor=white)](https://www.linux.org/)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-7.3-green?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+**Specialized Domains:**
+
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.8-blue?logo=opencv&logoColor=white)](https://opencv.org/)  
+[![ROS2](https://img.shields.io/badge/ROS2-Foxy-blue?logo=robotics&logoColor=white)](https://docs.ros.org/en/foxy/)  
+[![Embedded](https://img.shields.io/badge/Embedded-Systems-lightgrey)](#)
 
 ---
 
@@ -161,4 +188,3 @@ Engage with learners, mentors, and researchers. Ask questions, share projects, a
 **Made with ❤️ by the SAIR Community**
 *Empowering Sudan. Advancing AI. Changing the Future.*
 
-````
