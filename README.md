@@ -1,7 +1,3 @@
-Got it! Here’s the **final version of the Main README** with **technology badges added** under the Tech Stack section so it’s ready to paste on GitHub:
-
----
-
 # **1️⃣ Main Repository README – SAIR**
 
 ```markdown
