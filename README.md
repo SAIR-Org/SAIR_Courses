@@ -1,11 +1,18 @@
+Perfect! Here’s a **fully polished, final version** of both READMEs ready for GitHub, with badges, links, formatting improvements, and minor text tweaks.
+
+---
+
+# **1️⃣ Main Repository README – SAIR**
+
+```markdown
 # 🇸🇩 SAIR – Sudanese Artificial Intelligence Research
 
 ![SAIR Banner](SAIR.jpg)
 
-**Founder & Maintainer:** Mohammed Awad Ahmed (Silva)
-**Course:** Practical Introduction to ML/DL Systems
-**Status:** 🚀 Active Courses & Community
-**License:** MIT | **Community:** [Join us on Telegram](https://t.me/+jPPlO6ZFDbtlYzU0)
+**Founder & Maintainer:** Mohammed Awad Ahmed (Silva)  
+**Course:** Practical Introduction to ML/DL Systems  
+**Status:** 🚀 Active Courses & Community  
+**License:** MIT | **Community:** [![Telegram](https://img.shields.io/badge/Telegram-Join_Community-blue?logo=telegram)](https://t.me/+jPPlO6ZFDbtlYzU0)
 
 ---
 
@@ -15,12 +22,11 @@
 
 This repository is the **central hub** for courses, hands-on projects, and collaborative research. Learners are guided from **foundational ML/DL concepts** to **state-of-the-art AI systems**, building a vibrant AI community in Sudan.
 
-**Who is this for?**
-
-* 🎓 Students learning AI from scratch
-* 💼 Professionals seeking career transitions
-* 🧠 Researchers exploring advanced topics
-* 🌍 Enthusiasts passionate about AI innovation
+### **Who is this for?**
+* 🎓 Students learning AI from scratch  
+* 💼 Professionals seeking career transitions  
+* 🧠 Researchers exploring advanced topics  
+* 🌍 Enthusiasts passionate about AI innovation  
 
 **Why SAIR matters:** Sudanese talent deserves access to **free, high-quality AI education, mentorship, and opportunities**.
 
@@ -29,17 +35,14 @@ This repository is the **central hub** for courses, hands-on projects, and colla
 ## 🌟 Vision & Mission
 
 ### **Vision**
-
 *"AI is the new electricity — let's make Sudan a leader in it."*
 
 ### **Mission**
-
 SAIR exists to:
-
-✅ **Educate** – Foundational & advanced AI/ML/DL courses.
-✅ **Empower** – Mentorship, community, and career guidance.
-✅ **Innovate** – Local research and real-world AI applications.
-✅ **Collaborate** – Connect learners, researchers, and professionals.
+- ✅ **Educate** – Foundational & advanced AI/ML/DL courses  
+- ✅ **Empower** – Mentorship, community, and career guidance  
+- ✅ **Innovate** – Local research and real-world AI applications  
+- ✅ **Collaborate** – Connect learners, researchers, and professionals  
 
 ---
 
@@ -48,8 +51,10 @@ SAIR exists to:
 SAIR’s journey is structured in **three pillars**:
 
 ```
+
 Foundations → Application → Research
-```
+
+````
 
 | Phase          | Focus & Skills                       |
 | -------------- | ------------------------------------ |
@@ -63,32 +68,30 @@ Foundations → Application → Research
 
 ## 💻 Tech Stack & Tools
 
-**ML/DL Frameworks:** Python, PyTorch, TensorFlow, HuggingFace, JAX
-**Deployment & Production:** FastAPI, Streamlit, Docker, Kubernetes
-**Experiment Tracking:** MLflow, Weights & Biases
-**Infra & Data:** CUDA, Linux, PostgreSQL, MongoDB
-**Specialized Domains:** CV (OpenCV), Robotics (ROS2), Embedded Systems
+**ML/DL Frameworks:** Python, PyTorch, TensorFlow, HuggingFace, JAX  
+**Deployment & Production:** FastAPI, Streamlit, Docker, Kubernetes  
+**Experiment Tracking:** MLflow, Weights & Biases  
+**Infrastructure & Data:** CUDA, Linux, PostgreSQL, MongoDB  
+**Specialized Domains:** CV (OpenCV), Robotics (ROS2), Embedded Systems  
 
 ---
 
 ## ⚡ Quick Start
 
 ### **Prerequisites**
-
-* Python ≥ 3.11
-* Git
-* Terminal / CLI
-* Code editor (VS Code, PyCharm, etc.)
+* Python ≥ 3.11  
+* Git  
+* Terminal / CLI  
+* Code editor (VS Code, PyCharm, etc.)  
 
 ### **Installation**
-
 Clone the repo and install dependencies with `uv`:
 
 ```bash
 git clone https://github.com/silvaxxx1/SAIR.git
 cd SAIR
 uv sync
-```
+````
 
 Activate the environment:
 
@@ -118,7 +121,7 @@ Build your first end-to-end ML project with:
 
 We welcome contributions!
 
-### **Ways to Help:**
+**Ways to Help:**
 
 * 🐛 Report bugs or issues
 * 📚 Improve documentation
@@ -126,7 +129,7 @@ We welcome contributions!
 * 🛠 Build and share projects
 * 👥 Mentor newcomers
 
-### **GitHub Workflow**
+**GitHub Workflow:**
 
 1. Fork the repo
 2. Create a branch
@@ -151,11 +154,11 @@ Engage with learners, mentors, and researchers. Ask questions, share projects, a
 3. 🚀 Build, learn, and contribute
 4. 💬 Join our [Telegram community](https://t.me/+jPPlO6ZFDbtlYzU0)
 
-> *“The best way to learn AI is to build with it.”*
-> — SAIR Community
+> *“The best way to learn AI is to build with it.”* — SAIR Community
 
 ---
 
 **Made with ❤️ by the SAIR Community**
 *Empowering Sudan. Advancing AI. Changing the Future.*
 
+````
