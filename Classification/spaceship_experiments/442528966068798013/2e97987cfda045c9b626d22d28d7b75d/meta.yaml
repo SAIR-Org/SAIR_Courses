@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Classification/spaceship_experiments/442528966068798013/2e97987cfda045c9b626d22d28d7b75d/artifacts
+end_time: 1761431380581
+entry_point_name: ''
+experiment_id: '442528966068798013'
+lifecycle_stage: active
+run_id: 2e97987cfda045c9b626d22d28d7b75d
+run_name: XGBoost_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761431365862
+status: 4
+tags: []
+user_id: silva

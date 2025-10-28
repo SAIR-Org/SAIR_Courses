@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Classification/spaceship_experiments/442528966068798013/5a9aeaf1f25d475bad48c0af9f3fe9ae/artifacts
+end_time: 1761433791757
+entry_point_name: ''
+experiment_id: '442528966068798013'
+lifecycle_stage: active
+run_id: 5a9aeaf1f25d475bad48c0af9f3fe9ae
+run_name: Logistic Regression_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761433788066
+status: 3
+tags: []
+user_id: silva

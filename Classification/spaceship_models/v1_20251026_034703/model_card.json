@@ -1,0 +1,60 @@
+{
+  "model_name": "LightGBM",
+  "model_version": "v1_20251026_034703",
+  "timestamp": "20251026_034703",
+  "dataset": "Spaceship Titanic",
+  "task": "Binary Classification",
+  "target": "Transported",
+  "performance": {
+    "test_accuracy": 0.8102357676825762,
+    "test_precision": 0.8219339622641509,
+    "test_recall": 0.795662100456621,
+    "test_f1": 0.808584686774942,
+    "test_roc_auc": 0.9038020444768966,
+    "val_accuracy": 0.8023005032350827
+  },
+  "data_info": {
+    "train_samples": 6954,
+    "test_samples": 4277,
+    "n_features": 37
+  },
+  "model_config": {
+    "model_class": "LightGBM",
+    "hyperparameters": {
+      "boosting_type": "gbdt",
+      "class_weight": null,
+      "colsample_bytree": 1.0,
+      "importance_type": "split",
+      "learning_rate": 0.05,
+      "max_depth": 10,
+      "min_child_samples": 20,
+      "min_child_weight": 0.001,
+      "min_split_gain": 0.0,
+      "n_estimators": 100,
+      "n_jobs": -1,
+      "num_leaves": 63,
+      "objective": null,
+      "random_state": 42,
+      "reg_alpha": 0.0,
+      "reg_lambda": 0.0,
+      "subsample": 0.7,
+      "subsample_for_bin": 200000,
+      "subsample_freq": 0,
+      "verbose": -1
+    }
+  },
+  "preprocessing": {
+    "steps": [
+      "SpaceshipFeatureEngineer (group features, cabin decomposition, spending features)",
+      "Numerical imputation (median) + Robust scaling",
+      "Categorical imputation (mode) + One-hot encoding"
+    ]
+  },
+  "kaggle_submission": {
+    "file": "submission_20251026_034703.csv",
+    "prediction_distribution": {
+      "true": 2143,
+      "false": 2134
+    }
+  }
+}

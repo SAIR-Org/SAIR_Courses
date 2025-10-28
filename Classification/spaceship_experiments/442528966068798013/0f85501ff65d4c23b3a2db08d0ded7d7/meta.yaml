@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Classification/spaceship_experiments/442528966068798013/0f85501ff65d4c23b3a2db08d0ded7d7/artifacts
+end_time: 1761438009347
+entry_point_name: ''
+experiment_id: '442528966068798013'
+lifecycle_stage: active
+run_id: 0f85501ff65d4c23b3a2db08d0ded7d7
+run_name: Gradient Boosting_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761437883128
+status: 3
+tags: []
+user_id: silva

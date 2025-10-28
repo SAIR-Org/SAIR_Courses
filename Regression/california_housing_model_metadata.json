@@ -1,0 +1,16 @@
+{
+  "feature_names": [
+    "MedInc",
+    "HouseAge",
+    "AveRooms",
+    "AveBedrms",
+    "Population",
+    "AveOccup",
+    "Latitude",
+    "Longitude"
+  ],
+  "model_type": "GradientBoostingRegressor",
+  "timestamp": "2025-10-17T18:23:48.763546",
+  "dataset": "California Housing",
+  "features_description": "MedInc, HouseAge, AveRooms, AveBedrms, Population, AveOccup, Latitude, Longitude"
+}

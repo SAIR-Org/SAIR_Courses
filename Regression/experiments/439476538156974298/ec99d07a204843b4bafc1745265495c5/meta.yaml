@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Week 1/experiments/439476538156974298/ec99d07a204843b4bafc1745265495c5/artifacts
+end_time: 1760907593035
+entry_point_name: ''
+experiment_id: '439476538156974298'
+lifecycle_stage: active
+run_id: ec99d07a204843b4bafc1745265495c5
+run_name: Linear Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760907584323
+status: 3
+tags: []
+user_id: silva

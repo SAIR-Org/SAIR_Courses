@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Classification/spaceship_experiments/442528966068798013/8eb3980ad0f24ac58a56bf5ae1b85388/artifacts
+end_time: 1761399361404
+entry_point_name: ''
+experiment_id: '442528966068798013'
+lifecycle_stage: active
+run_id: 8eb3980ad0f24ac58a56bf5ae1b85388
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761399355123
+status: 3
+tags: []
+user_id: silva

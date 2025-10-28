@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Week 1/experiments/439476538156974298/31e147d99d8542a2925b82bd33ee02de/artifacts
+end_time: 1760748665801
+entry_point_name: ''
+experiment_id: '439476538156974298'
+lifecycle_stage: active
+run_id: 31e147d99d8542a2925b82bd33ee02de
+run_name: Ridge Regression_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760748658703
+status: 3
+tags: []
+user_id: silva

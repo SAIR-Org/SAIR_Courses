@@ -1,0 +1,27 @@
+{
+  "model_name": "Weighted Ensemble",
+  "model_version": "v1_20251026_042135",
+  "timestamp": "20251026_042135",
+  "dataset": "Spaceship Titanic",
+  "task": "Binary Classification",
+  "target": "Transported",
+  "performance": {
+    "test_accuracy": 0.8096607245543416,
+    "test_precision": 0.8058361391694725,
+    "test_recall": 0.819634703196347,
+    "test_f1": 0.8126768534238823,
+    "test_roc_auc": 0.9062617396043323,
+    "val_accuracy": 0.8044572250179727
+  },
+  "data_info": {
+    "train_samples": 6954,
+    "test_samples": 4277,
+    "n_features": 37
+  },
+  "model_config": {
+    "model_class": "Weighted Ensemble",
+    "hyperparameters": {
+      "estimators": [
+        [
+          "rf",
+          

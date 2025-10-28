@@ -1,0 +1,5 @@
+Median Income (MedInc),House Age (HouseAge),Average Rooms (AveRooms),Average Bedrooms (AveBedrms),Population,Average Occupancy (AveOccup),Latitude,Longitude,Predicted Price ($k),timestamp
+4.5,25,5.5,1,1000,3,36,'-120,,2025-10-16 19:44:10.656308
+4.5,31,5.5,1,1000,3,36,'-120,,2025-10-19 00:08:41.980475
+4.5,28,5.5,1,1000,3,38.98,'-120,,2025-10-19 00:09:01.781616
+15,12,12.7,4.8,4150,8.3,41.81,'-115.29,$-966.66k,2025-10-19 00:09:18.524398

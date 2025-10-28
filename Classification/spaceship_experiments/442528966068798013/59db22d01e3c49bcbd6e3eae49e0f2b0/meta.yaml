@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Classification/spaceship_experiments/442528966068798013/59db22d01e3c49bcbd6e3eae49e0f2b0/artifacts
+end_time: 1761431365859
+entry_point_name: ''
+experiment_id: '442528966068798013'
+lifecycle_stage: active
+run_id: 59db22d01e3c49bcbd6e3eae49e0f2b0
+run_name: LightGBM_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761429904121
+status: 3
+tags: []
+user_id: silva

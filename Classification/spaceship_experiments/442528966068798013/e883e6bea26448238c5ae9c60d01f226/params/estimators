@@ -1,0 +1,2 @@
+[('rf', RandomForestClassifier(max_depth=15, n_estimators=200, n_jobs=-1,
+                       random_state=42)), ('gb', GradientBoostingClassifier(n_estimators=200, random_state=42)), ('lr', LogisticRegression(C=0.1, max_iter=1000, random_state=42, solver='liblinear'))]

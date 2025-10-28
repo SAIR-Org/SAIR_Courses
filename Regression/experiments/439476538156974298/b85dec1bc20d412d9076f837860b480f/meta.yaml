@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Week 1/experiments/439476538156974298/b85dec1bc20d412d9076f837860b480f/artifacts
+end_time: 1760907663583
+entry_point_name: ''
+experiment_id: '439476538156974298'
+lifecycle_stage: active
+run_id: b85dec1bc20d412d9076f837860b480f
+run_name: Gradient Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760907657303
+status: 3
+tags: []
+user_id: silva

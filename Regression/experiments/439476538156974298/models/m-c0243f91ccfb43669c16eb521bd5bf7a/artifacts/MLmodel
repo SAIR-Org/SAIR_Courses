@@ -1,0 +1,22 @@
+artifact_path: file:///home/silva/SILVA.AI/Projects/SAIR/Week 1/experiments/439476538156974298/models/m-c0243f91ccfb43669c16eb521bd5bf7a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.0
+model_id: m-c0243f91ccfb43669c16eb521bd5bf7a
+model_size_bytes: 1693462
+model_uuid: m-c0243f91ccfb43669c16eb521bd5bf7a
+prompts: null
+run_id: dcb105dacc584789934ac5f260d227a3
+utc_time_created: '2025-10-18 00:50:49.834929'

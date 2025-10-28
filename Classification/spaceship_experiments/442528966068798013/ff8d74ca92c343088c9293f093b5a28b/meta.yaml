@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Classification/spaceship_experiments/442528966068798013/ff8d74ca92c343088c9293f093b5a28b/artifacts
+end_time: 1761485549573
+entry_point_name: ''
+experiment_id: '442528966068798013'
+lifecycle_stage: active
+run_id: ff8d74ca92c343088c9293f093b5a28b
+run_name: Voting Ensemble
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761485537079
+status: 3
+tags: []
+user_id: silva

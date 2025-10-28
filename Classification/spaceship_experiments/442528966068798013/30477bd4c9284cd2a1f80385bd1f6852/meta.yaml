@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Classification/spaceship_experiments/442528966068798013/30477bd4c9284cd2a1f80385bd1f6852/artifacts
+end_time: 1761484786614
+entry_point_name: ''
+experiment_id: '442528966068798013'
+lifecycle_stage: active
+run_id: 30477bd4c9284cd2a1f80385bd1f6852
+run_name: Decision Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761484780713
+status: 3
+tags: []
+user_id: silva

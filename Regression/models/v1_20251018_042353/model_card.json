@@ -1,0 +1,75 @@
+{
+  "model_name": "Gradient Boosting",
+  "model_version": "v1_20251018_042353",
+  "timestamp": "20251018_042353",
+  "dataset": "California Housing",
+  "target": "House Price ($M)",
+  "performance": {
+    "test_r2": 0.8333366767472978,
+    "test_rmse": 0.4673297712898314,
+    "test_mae": 0.308689160040763,
+    "train_r2": 0.8111697557411854,
+    "val_r2": 0.8298379294825935,
+    "cv_r2_mean": 0.7860942087119704,
+    "cv_r2_std": 0.006850689305089804
+  },
+  "data_info": {
+    "total_samples": 20640,
+    "train_samples": 13209,
+    "val_samples": 3303,
+    "test_samples": 4128,
+    "n_features": 14,
+    "feature_names": [
+      "feature_0",
+      "feature_1",
+      "feature_2",
+      "feature_3",
+      "feature_4",
+      "feature_5",
+      "feature_6",
+      "feature_7"
+    ]
+  },
+  "model_config": {
+    "model_class": "Gradient Boosting",
+    "hyperparameters": {
+      "alpha": 0.9,
+      "ccp_alpha": 0.0,
+      "criterion": "friedman_mse",
+      "init": null,
+      "learning_rate": 0.05,
+      "loss": "squared_error",
+      "max_depth": 6,
+      "max_features": null,
+      "max_leaf_nodes": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 1,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "n_estimators": 200,
+      "n_iter_no_change": null,
+      "random_state": 42,
+      "subsample": 0.8,
+      "tol": 0.0001,
+      "validation_fraction": 0.1,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  "preprocessing": {
+    "steps": [
+      "AdvancedFeatureEngineering (6 new features)",
+      "OutlierHandling (IQR method)",
+      "RobustScaler (outlier-resistant scaling)"
+    ],
+    "outlier_factor": 1.5
+  },
+  "deployment": {
+    "status": "Ready for Production",
+    "recommendations": [
+      "Monitor prediction errors in production",
+      "Retrain quarterly with new data",
+      "Alert if RMSE exceeds $0.50M"
+    ]
+  }
+}

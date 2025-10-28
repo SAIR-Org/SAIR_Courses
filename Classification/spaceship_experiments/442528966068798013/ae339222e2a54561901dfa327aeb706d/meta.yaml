@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Classification/spaceship_experiments/442528966068798013/ae339222e2a54561901dfa327aeb706d/artifacts
+end_time: 1761400106617
+entry_point_name: ''
+experiment_id: '442528966068798013'
+lifecycle_stage: active
+run_id: ae339222e2a54561901dfa327aeb706d
+run_name: Weighted Ensemble
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761400093268
+status: 3
+tags: []
+user_id: silva

@@ -1,0 +1,10 @@
+artifact_location: file:///home/silva/SILVA.AI/Projects/SAIR/Week 1/experiments/439476538156974298/models/m-7eb48e8cbd2643958d844653ee721240/artifacts
+creation_timestamp: 1760711457849
+experiment_id: '439476538156974298'
+last_updated_timestamp: 1760711461064
+model_id: m-7eb48e8cbd2643958d844653ee721240
+model_type: null
+name: tuned_model
+source_run_id: 718447c1ce7f488381da040b3593f6ac
+status: 2
+status_message: null

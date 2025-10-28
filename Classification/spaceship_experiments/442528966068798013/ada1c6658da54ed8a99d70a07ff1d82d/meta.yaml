@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Classification/spaceship_experiments/442528966068798013/ada1c6658da54ed8a99d70a07ff1d82d/artifacts
+end_time: 1761400768692
+entry_point_name: ''
+experiment_id: '442528966068798013'
+lifecycle_stage: active
+run_id: ada1c6658da54ed8a99d70a07ff1d82d
+run_name: Super Ensemble
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761400106620
+status: 3
+tags: []
+user_id: silva

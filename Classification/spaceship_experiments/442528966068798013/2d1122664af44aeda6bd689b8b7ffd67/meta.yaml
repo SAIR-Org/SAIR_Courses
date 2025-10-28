@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Classification/spaceship_experiments/442528966068798013/2d1122664af44aeda6bd689b8b7ffd67/artifacts
+end_time: 1761399378710
+entry_point_name: ''
+experiment_id: '442528966068798013'
+lifecycle_stage: active
+run_id: 2d1122664af44aeda6bd689b8b7ffd67
+run_name: K-Nearest Neighbors
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761399375092
+status: 3
+tags: []
+user_id: silva

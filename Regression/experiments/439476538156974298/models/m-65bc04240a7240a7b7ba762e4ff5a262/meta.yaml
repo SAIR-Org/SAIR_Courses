@@ -1,0 +1,10 @@
+artifact_location: file:///home/silva/SILVA.AI/Projects/SAIR/Week 1/experiments/439476538156974298/models/m-65bc04240a7240a7b7ba762e4ff5a262/artifacts
+creation_timestamp: 1760710745202
+experiment_id: '439476538156974298'
+last_updated_timestamp: 1760710748664
+model_id: m-65bc04240a7240a7b7ba762e4ff5a262
+model_type: null
+name: model
+source_run_id: fdcc422292aa4802bc32889887f57eb0
+status: 2
+status_message: null

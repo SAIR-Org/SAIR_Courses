@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Classification/spaceship_experiments/442528966068798013/28123be6a5624196820bba1feeedf55c/artifacts
+end_time: 1761399375089
+entry_point_name: ''
+experiment_id: '442528966068798013'
+lifecycle_stage: active
+run_id: 28123be6a5624196820bba1feeedf55c
+run_name: AdaBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761399371133
+status: 3
+tags: []
+user_id: silva

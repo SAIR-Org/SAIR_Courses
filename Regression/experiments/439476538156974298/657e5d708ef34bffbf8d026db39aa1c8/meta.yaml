@@ -1,0 +1,14 @@
+artifact_uri: file:///home/silva/SILVA.AI/Projects/SAIR/Week 1/experiments/439476538156974298/657e5d708ef34bffbf8d026db39aa1c8/artifacts
+end_time: 1760907642205
+entry_point_name: ''
+experiment_id: '439476538156974298'
+lifecycle_stage: active
+run_id: 657e5d708ef34bffbf8d026db39aa1c8
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760907630228
+status: 3
+tags: []
+user_id: silva
