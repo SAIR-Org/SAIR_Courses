@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+=======
 # ==============================
 # Python
 # ==============================
@@ -45,3 +49,4 @@ models/
 # ==============================
 # Only include if you want to ignore temporary files
 *.db
+>>>>>>> 3cb0f9a040ed43401978760a69a814d5a869ab9e

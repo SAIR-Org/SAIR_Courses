@@ -3,6 +3,10 @@ name = "sair"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
+<<<<<<< HEAD
+requires-python = ">=3.13"
+dependencies = []
+=======
 requires-python = ">=3.12"
 dependencies = [
     "gradio>=5.49.1",
@@ -20,3 +24,4 @@ dependencies = [
     "streamlit>=1.50.0",
     "xgboost>=3.1.1",
 ]
+>>>>>>> 3cb0f9a040ed43401978760a69a814d5a869ab9e

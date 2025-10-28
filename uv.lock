@@ -1,4 +1,8 @@
 version = 1
+<<<<<<< HEAD
+revision = 3
+requires-python = ">=3.13"
+=======
 revision = 2
 requires-python = ">=3.12"
 resolution-markers = [
@@ -2756,11 +2760,14 @@ sdist = { url = "https://files.pythonhosted.org/packages/67/4c/19db75e6405692b2a
 wheels = [
     { url = "https://files.pythonhosted.org/packages/4d/c0/1108ad9f01567f66b3154063605b350b69c3c9366732e09e45f9fd0d1deb/safehttpx-0.1.6-py3-none-any.whl", hash = "sha256:407cff0b410b071623087c63dd2080c3b44dc076888d8c5823c00d1e58cb381c", size = 8692, upload-time = "2024-12-02T18:44:08.555Z" },
 ]
+>>>>>>> 3cb0f9a040ed43401978760a69a814d5a869ab9e
 
 [[package]]
 name = "sair"
 version = "0.1.0"
 source = { virtual = "." }
+<<<<<<< HEAD
+=======
 dependencies = [
     { name = "gradio" },
     { name = "ipywidgets" },
@@ -3361,3 +3368,4 @@ sdist = { url = "https://files.pythonhosted.org/packages/e3/02/0f2892c661036d50e
 wheels = [
     { url = "https://files.pythonhosted.org/packages/2e/54/647ade08bf0db230bfea292f893923872fd20be6ac6f53b2b936ba839d75/zipp-3.23.0-py3-none-any.whl", hash = "sha256:071652d6115ed432f5ce1d34c336c0adfd6a884660d1e9712a256d3d3bd4b14e", size = 10276, upload-time = "2025-06-08T17:06:38.034Z" },
 ]
+>>>>>>> 3cb0f9a040ed43401978760a69a814d5a869ab9e

@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+"# Health-Score-Project" 
+=======
 🇸🇩 SAIR – Sudanese Artificial Intelligence Research
 
 ![SAIR Banner](SAIR.jpg)
@@ -164,3 +167,4 @@ Build your first end-to-end ML project with:
 **Made with ❤️ by the SAIR Community**
 *Empowering Sudan. Advancing AI. Changing the Future.*
 ------------------------------------------------------
+>>>>>>> 3cb0f9a040ed43401978760a69a814d5a869ab9e
