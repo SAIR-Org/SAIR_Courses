@@ -1,10 +1,10 @@
-🇸🇩 SAIR – Sudanese Artificial Intelligence Research
-
-![SAIR Banner](assets/SAIR.jpg)
-
 # Module 0: Python Foundations 🐍
 
 **Your First Step on the Road to AI Mastery**
+
+**📍 Location:** `0_Python_ML_Foundations/`  
+**🎯 Prerequisite:** None - Start here!  
+**➡️ Next Module:** [Module 1: Regression](../1_Regression/README.md)
 
 **Welcome to SAIR!** This is where your AI journey begins. Whether you're completely new to programming or looking to strengthen your fundamentals, this module will give you the Python skills needed to start building real machine learning systems.
 
@@ -18,11 +18,26 @@
 - You've never worked with NumPy, Pandas, or Matplotlib
 - You want solid foundations before diving into ML algorithms
 
-### 🚀 **Skip to [Module 1: Regression](../Regression/README.md) if:**
+### 🚀 **Skip to [Module 1: Regression](../1_Regression/README.md) if:**
 - You're already comfortable with Python basics
 - You have experience with NumPy arrays and Pandas DataFrames
 - You can create basic plots with Matplotlib
 - You're eager to start building your first ML model
+
+---
+
+## 🛠️ Tools You'll Master
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+These are the **essential tools** used by every data scientist and ML engineer worldwide. Master them here, use them everywhere.
 
 ---
 
@@ -73,7 +88,7 @@ At SAIR, we believe in **progressive mastery**. You don't need to be an expert i
 # 1. Start with Python basics
 jupyter notebook SAIR_Lecture_0.ipynb
 
-# 2. Begin Module 1: Regression
+# 2. Begin Module 1: Regression when comfortable
 # 3. Return to other notebooks as needed
 ```
 
@@ -81,20 +96,10 @@ jupyter notebook SAIR_Lecture_0.ipynb
 ```bash
 # Skim SAIR_Lecture_0 to refresh basics
 # Jump to Module 1 when ready
-# Use other notebooks as reference
+# Use other notebooks as reference during projects
 ```
 
 ---
-
-## 🛠️ Tools You'll Master
-
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.24-green?logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0-red?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-orange?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-
-These are the **essential tools** used by every data scientist and ML engineer worldwide. Master them here, use them everywhere.
-
 
 ## 🤝 Get Help & Connect
 
@@ -102,7 +107,7 @@ Stuck? Have questions? Want to share your progress?
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join_SAIR_Community-blue?logo=telegram)](https://t.me/+jPPlO6ZFDbtlYzU0)
 
-Our community of learners and mentors is here to support you every step of the way.
+Our community of learners and mentors is here to support you every step of the way. Join live lectures and get real-time help!
 
 ---
 
@@ -112,7 +117,7 @@ Our community of learners and mentors is here to support you every step of the w
 → Begin with [`SAIR_Lecture_0.ipynb`](SAIR_Lecture_0.ipynb)
 
 ### **Ready to build?** 
-→ Jump to [Module 1: Regression](../Regression/README.md)
+→ Jump to [Module 1: Regression](../1_Regression/README.md)
 
 ### **Want to deepen your skills?**
 → Explore the mastery notebooks below
@@ -133,19 +138,26 @@ Our community of learners and mentors is here to support you every step of the w
 > *Every master was once a beginner. Your journey to AI excellence starts here.*
 
 **Welcome to the SAIR family! 🌟**
-```
 
 ---
 
-## 🗂️ **Final Structure:**
+**🔜 Next Step:** [Module 1: Regression - Build Your First ML Model](../1_Regression/README.md)
+
+---
+
+## 🗂️ **Module Structure:**
 ```
-Module_0_Python_Foundations/
+0_Python_ML_Foundations/
 │
-├── 📚 README.md                          # Welcoming guide (above)
+├── 📚 README.md                          # This guide
 ├── 🎯 SAIR_Lecture_0.ipynb               # Start Here - Python Basics
 ├── 🚀 numpy.ipynb                        # Numerical Computing Mastery
 ├── 📊 pandas.ipynb                       # Data Analysis Mastery  
 ├── 📈 matplot.ipynb                      # Visualization Mastery
 └── 🖼️ assets/
-
+    
 ```
+
+---
+
+
