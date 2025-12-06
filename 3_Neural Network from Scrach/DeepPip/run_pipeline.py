@@ -8,12 +8,12 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 
 from src.utils.logger import setup_logger
-from src.data.loader import DataLoader
-from src.data.preprocessor import DataPreprocessor
-from src.models.dnn import DNN
+from src.data_pipeline.loader import DataLoader
+from src.data_pipeline.preprocessor import DataPreprocessor
+from src.model.dnn import DNN
 from src.training.trainer import Trainer
 from src.evaluation.evaluator import Evaluator
-import yaml
+import yaml 
 
 
 def load_config(config_path="config/config.yaml"):
