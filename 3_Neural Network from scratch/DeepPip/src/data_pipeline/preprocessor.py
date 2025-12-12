@@ -18,12 +18,12 @@ class DataPreprocessor:
         """Preprocess and split dataset."""
         # Convert to float32
         X_train = X_train.astype(np.float32)
-        X_test = X_test.astype(np.float32)
+        X_test = X_test.astype(np.float32) 
         
         # Convert RGB to grayscale for CIFAR-10
         if dataset_name == 'cifar10' and X_train.ndim == 4 and X_train.shape[-1] == 3:
             X_train = np.mean(X_train, axis=-1)
-            X_test = np.mean(X_test, axis=-1)
+            X_test = np.mean(X_test, axis=-1) 
         
         # Normalize to [0, 1]
         X_train = X_train / 255.0

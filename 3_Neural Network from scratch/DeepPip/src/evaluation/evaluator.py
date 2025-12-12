@@ -6,9 +6,9 @@ import json
 import numpy as np
 import matplotlib.pyplot as plt
 from pathlib import Path
-from src.models.dnn import DNN
-from src.data.loader import DataLoader
-from src.data.preprocessor import DataPreprocessor
+from src.model.dnn import DNN
+from src.data_pipeline.loader import DataLoader
+from src.data_pipeline.preprocessor import DataPreprocessor
 
 
 class Evaluator:
