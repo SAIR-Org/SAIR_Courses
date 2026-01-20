@@ -148,8 +148,22 @@ Explore amazing projects built by SAIR learners:
 - **🏥 Health Score Prediction** - Healthcare analytics with synthetic data
 - **🚗 Car Price Prediction** - Automotive market analysis
 - **🌾 Agricultural Yield Optimization** - Climate impact modeling
+- **✨ Air Quality Prediction ✨** - Estimate PM2.5 levels from satellite observations
 
 **Location:** `Regression Capstone Projects/`
+
+<div align='center'>
+
+## **✨ Air Quality Prediction ✨**
+
+</div>
+
+### Project [Link](https://github.com/Ibraheem-Al-hafith/airqo_pipeline)
+
+### 📺 Demo Video 📺 :
+
+https://github.com/user-attachments/assets/a6be4afe-3c12-483f-a1b7-08e8922b6a0c
+
 
 ---
 
