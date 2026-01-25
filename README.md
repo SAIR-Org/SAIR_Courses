@@ -473,7 +473,7 @@ Your final project must demonstrate:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/silvaxxx1/SAIR.git
+git clone https://github.com/SAIR-Org/SAIR_Jr.git
 cd SAIR
 
 # 2. Set up environment
