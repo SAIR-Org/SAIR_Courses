@@ -1,0 +1,29 @@
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Trained models
+models/
+*.pkl
+*.joblib
+*.json
+
+# Experiment artifacts
+experiments/

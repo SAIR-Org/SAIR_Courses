@@ -149,6 +149,7 @@ Explore amazing projects built by SAIR learners:
 - **🚗 Car Price Prediction** - Automotive market analysis
 - **🌾 Agricultural Yield Optimization** - Climate impact modeling
 - **✨ Crop Yield Estimation ✨** - Estimate Yield per Acre for Indians farmer using survey collected data.
+- **⚡ Combined Cycle Power Plant Energy Output Prediction** – Power generation prediction using operational and ambient condition data
 
 **Location:** `Regression Capstone Projects/`
 
